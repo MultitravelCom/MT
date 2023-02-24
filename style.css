@@ -1,3 +1,9 @@
+
+/* Vuelos */
 .flight-bestprices{
     border-radius: 1rem;
+}
+.results-list__filter-toggle {
+    background-color: brown;
+    color: white;
 }
