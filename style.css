@@ -7,3 +7,7 @@
     background-color: brown;
     color: white;
 }
+.hotel-result{
+    border-radius: 1rem;
+    overflow: hidden;
+}
