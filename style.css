@@ -3,7 +3,7 @@
 .flight-bestprices{
     border-radius: 1rem;
 }
-.results-list__filter-toggle {
+.btn-tertiary {
     background-color: brown;
     color: white;
 }
