@@ -1,3 +1,4 @@
-const btn = document.querySelector(".btn-medium");
+const btn = document.getElementsByClassName("btn-medium");
 btn.innerHTML ="Reservar";
+console.log(btn);
 
