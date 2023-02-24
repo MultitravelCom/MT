@@ -1,4 +1,4 @@
-const btn = document.getElementsByClassName("btn-medium");
+const btn = document.getElementsByClassName("booking-data__section-side-title");
 btn.innerHTML ="Reservar";
 console.log(btn);
 
