@@ -1,0 +1,13 @@
+
+/* Vuelos */
+.flight-bestprices{
+    border-radius: 1rem;
+}
+.btn-tertiary {
+    background-color: brown;
+    color: white;
+}
+.hotel-result{
+    border-radius: 1rem;
+    overflow: hidden;
+}
